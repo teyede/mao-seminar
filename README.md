@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 井手
 田中
 吉田
+フェッチさん
 
 # ディレクトリ構成
 ```
